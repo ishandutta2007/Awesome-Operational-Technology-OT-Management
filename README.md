@@ -85,9 +85,9 @@ The following table details enterprise SaaS and commercial platforms for OT mana
 
 Open-source tooling enables plant engineers, security researchers, and ICS defenders to build sovereign, self-hosted OT visibility stacks without per-asset licensing costs.
 
-The table below lists top open-source projects for OT packet analysis, protocol decoding, honeypots, CMDB, and compliance. **Sorted descending by GitHub Star Count.**
+The table below lists top open-source projects for OT packet analysis, protocol decoding, honeypots, CMDB, and compliance. **Sorted descending by GitHub Stars_Count.**
 
-| 💻 Project | ⭐ Stars *(White Social Badge)* | 🏷️ Category & Focus | 📜 License | 📝 Summary & OT Capabilities |
+| 💻 Project | ⭐ GitHub_Stars *(White Social Badge)* | 🏷️ Category & Focus | 📜 License | 📝 Summary & OT Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Scapy](https://github.com/secdev/scapy)** | [![Stars](https://img.shields.io/github/stars/secdev/scapy?style=social&color=white)](https://github.com/secdev/scapy/stargazers) | Packet Manipulation & Industrial Protocols | GPL-2.0 | Powerful Python-based interactive packet manipulation engine with native dissectors and builders for Modbus, DNP3, CIP, IEC 60870-5-104, and Profinet. |
 | **[Zeek](https://github.com/zeek/zeek)** | [![Stars](https://img.shields.io/github/stars/zeek/zeek?style=social&color=white)](https://github.com/zeek/zeek/stargazers) | Network Security Monitoring & Telemetry | BSD-3-Clause | Deep network analysis framework with specialized protocol analyzers for industrial protocols (Modbus, DNP3, S7comm, BACnet) generating structured transaction logs. |
@@ -188,7 +188,7 @@ We welcome additions, corrections, and improvements from OT engineers, SCADA arc
 1. **Fork the Repository** on GitHub.
 2. **Review Formatting Guidelines:**
    - For SaaS tools: include verified starting tier pricing, free trial specifications, and company size metrics.
-   - For Open-Source tools: include official repo link, social star badge, license, and concise technical description.
+   - For Open-Source tools: include official repo link, social Stars_Badge, license, and concise technical description.
 3. **Submit a Pull Request (PR)** with a clear explanation of your change.
 
 Explore more curated lists at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)!
